@@ -1,0 +1,1 @@
+# Sistema tecnico del GAMC
